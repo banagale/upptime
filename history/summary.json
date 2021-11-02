@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.banagale.com",
     "slug": "personal-site",
     "status": "down",
-    "uptime": "12.22%",
-    "uptimeDay": "12.22%",
-    "uptimeWeek": "12.22%",
-    "uptimeMonth": "12.22%",
-    "uptimeYear": "12.22%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-02": 0
+      "2021-11-02": 5
     }
   }
 ]
